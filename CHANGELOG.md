@@ -34,3 +34,9 @@
 - Fixed build issue in the package.json file
 - Fixed types in the code
 - Fixed tsconfig file
+
+## v1.0.7
+
+### Added or Changed
+
+- Added Github actions to publish npm
