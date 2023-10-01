@@ -40,3 +40,12 @@
 ### Added or Changed
 
 - Added Github actions to publish npm
+
+## v1.0.12
+
+### Added or Changed
+
+- Added UUID V4 which is the random pattern of uuids
+- Added UUID V5
+- Optimizations for tests
+- Added Tests for Github actions before publishing to npm

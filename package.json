@@ -1,6 +1,6 @@
 {
   "name": "@abdullahob12/uuid-generator",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "A lightweight and flexible UUID (Universally Unique Identifier) generator for Node.js, offering a simple and reliable way to create unique identifiers for various applications and use cases.",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",

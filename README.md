@@ -112,8 +112,8 @@ const myUniqueId = v1()
   - [ ] Add parameters for v1
 - [ ] Add v2 algorithm to uuid generator
 - [ ] Add v3 algorithm to uuid generator
-- [ ] Add v4 algorithm to uuid generator
-- [ ] Add v5 algorithm to uuid generator
+- [x] Add v4 algorithm to uuid generator
+- [x] Add v5 algorithm to uuid generator
 
 See the [open issues](https://github.com/AbdullahOB/uuid-generator/issues) for a full list of proposed features (and known issues).
 
